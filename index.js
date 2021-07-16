@@ -21,7 +21,7 @@ let countdownModule = (function () {
     };
     
     // 倒计时计算
-    const supplyZero = function supplyZero(val) {
+    const supplyZero = function supplyZero(val) {//不足十前面加0
         val = +val || 0;
         return val < 10 ? `0${val}` : val;
     };
