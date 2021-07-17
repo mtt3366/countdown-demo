@@ -1,7 +1,8 @@
 # 倒计时抢购demo
 ## 查看效果
 [GithubPage 查看](https://mtt3366.github.io/countdown-demo/)
-使用http-server在当前目录下开启一个服务`http-server -c-1`,查看index.html
+
+或者使用http-server在当前目录下开启一个服务`http-server -c-1`,查看index.html
 
 ## 思路
 两个时间：目标时间18：00：00，当前时间
